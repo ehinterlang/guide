@@ -1,24 +1,12 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+As a refresher and Rails 5 exploration activity,
+I will journal items I encounter and need to explore further.
 
-Things you may want to cover:
+* Working through the Rails 5 Guides, the generate controller task does not create all the files that are expected.
+Additionally, Sections 4.2 and 4.3 do not work as expected.
+I rendered a trivial text right in the controller.
+Even html markups did not work.
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Continuing on to Section 5 of the Guide.
+Hopefully, the introductory problems will becomer clearer.
