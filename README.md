@@ -10,3 +10,7 @@ Even html markups did not work.
 
 * Continuing on to Section 5 of the Guide.
 Hopefully, the introductory problems will becomer clearer.
+
+* Generators are not creating views, helpers, or assets.
+Section 5 is not working either.
+Some studying of the generators and the Rails 5 defaults are necessary before continuing.
