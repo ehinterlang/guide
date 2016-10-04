@@ -7,3 +7,5 @@ That is a slimmer Rails environment, not the one I was looking for.
 
 * Successfully worked through 5.3.
 Will examine all generated artifacts before moving onto models and database actions.
+
+* Successfully worked through 5.7.
